@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
 
         tv = findViewById( R.id.tv );
         tv.setText( "Hello wrold!!" );
-        
+
 
     }
 }
